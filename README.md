@@ -1,6 +1,8 @@
 # hello-world
 Practing GitHub flow
 
+//hello this is nikki
+
 // the setup function runs once when you press reset or power the board
 void setup() {
   //making pin 8 output pin
